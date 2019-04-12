@@ -6,4 +6,4 @@ Resources for DSCBUK Web Study Jam
 - [Week 2](./week2)
 - [Week 3](./week3)
 
-## Kindly open [issues](https://github.com/DSCBUK/web-study-jam/issues) if you need any guides
+## Kindly open [issues](https://github.com/DSCBUK/web-study-jam/issues) if you need any guides or would like to submit your work.
